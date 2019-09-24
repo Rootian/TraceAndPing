@@ -6,3 +6,4 @@
 3、开始测量
 
 ## 预览
+![image](https://github.com/Rootian/TraceAndPing/demo.gif)
